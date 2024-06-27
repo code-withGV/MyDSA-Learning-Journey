@@ -1,5 +1,5 @@
 # Day 10 - DSA Learning Journey
-Welcome to Day 10 of my DSA learning journey! Today, I focused on the concept of searching in rotated arrays, which is essential for coding interviews and competitive programming. Below are the topics I covered and the problems I solved.
+##### Welcome to Day 10 of my DSA learning journey! Today, I focused on the concept of searching in rotated arrays, which is essential for coding interviews and competitive programming. Below are the topics I covered and the problems I solved.
 
 # Concepts Covered
 # 1. Search in Rotated Sorted Array
