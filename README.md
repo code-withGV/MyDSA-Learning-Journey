@@ -8,3 +8,11 @@ Feel free to explore the code and leave any suggestions or improvements! 😊
 Thank you for following along my DSA learning journey. Stay tuned for more updates!
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
