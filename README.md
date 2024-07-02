@@ -9,11 +9,3 @@ Thank you for following along my DSA learning journey. Stay tuned for more updat
 
 Happy coding! 🚀
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0584-find-customer-referee](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0584-find-customer-referee) |
-| [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/1908-recyclable-and-low-fat-products) |
-<!---LeetCode Topics End-->
