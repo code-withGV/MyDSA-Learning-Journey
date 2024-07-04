@@ -16,6 +16,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -30,12 +31,18 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
