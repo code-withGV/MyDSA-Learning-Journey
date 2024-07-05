@@ -47,4 +47,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
