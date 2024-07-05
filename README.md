@@ -50,6 +50,7 @@ Happy coding! 🚀
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/code-withGV/MyDSA-Learning-Journey/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
