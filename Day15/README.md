@@ -5,6 +5,7 @@ Today, I focused on solving various pattern problems to strengthen my understand
 
 ## Pattern Problems
 
+```text
 2. * * * * *
    * * * *
    * * *
@@ -263,6 +264,7 @@ Today, I focused on solving various pattern problems to strengthen my understand
        12    21
        123  321
        12344321
+```
 
   ## Key Learnings
 1. Improved understanding of nested loops.
